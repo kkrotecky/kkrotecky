@@ -3,7 +3,7 @@
 - 👋 Hi, I’m __@kkrotecky__
 - 👀 I’m interested in politics and international relations
 - 🌱 I’m currently learning German, Python, HTML, CSS, Markdown...
-- 📫 How to reach me kkrotecky@gmail.com
+- I am new to coding so most of the stuff I do is reporpoused others code that I want to understand and set up on a safe server!
 
 <!---
 kkrotecky/kkrotecky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
