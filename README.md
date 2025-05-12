@@ -1,9 +1,13 @@
-### The First file!
+### About me:
 
 - 👋 Hi, I’m __@kkrotecky__
-- 👀 I’m interested in politics and international relations
-- 🌱 I’m currently learning German, Python, HTML, CSS, Markdown...
-- I am new to coding so most of the stuff I do is reporpoused others code that I want to understand and set up on a safe server!
+- 👀 Master in International Relations and Political Science
+  Thesis on 'Greko-Turkish Relations in the scope of Nato'
+- Bachelor in Political Science.
+  Thesis on 'Influence of technology on the developement of democracy'
+
+- Interested in OSINT, Open Source Developement and Cybersecurity.
+- Currently developing my shell scripting skills, Python automations and a virtual lab.
 
 <!---
 kkrotecky/kkrotecky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
